@@ -1,7 +1,7 @@
-ML
+Deep Learning
 ==============================
 
-ml using mlops
+Brain Tumor detection using Deep learning
 
 Project Organization
 ------------
